@@ -1,8 +1,8 @@
-# Spend and Price Forecasting for FMCG Commodities
+# Spend and Price Forecasting for FMCG companies
 
 ## Overview
 
-This project focuses on enhancing predictive pricing and spending forecasts for private companies, particularly in the FMCG sector, with a specific emphasis on resin and paper materials. Through a comparative analysis of statistical and machine learning models, the goal is to optimize spending forecasts over the next 12-18 months, providing insights that aid in purchasing, negotiation, and budgeting strategies.
+This project focuses on enhancing predictive pricing and spending forecasts for private companies, particularly in the FMCG sector, with a specific emphasis on resin and paper materials. Through a comparative analysis of statistical and machine learning models, the goal is to optimize spending forecasts over the next 12 months, providing insights that aid in purchasing, negotiation, and budgeting strategies.
 
 ## Team Members
 
